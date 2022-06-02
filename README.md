@@ -140,7 +140,8 @@ endmodule
 
 ### ENCODER:
 
-![OUTPUT](./output5.png)
+![encoder truth](https://user-images.githubusercontent.com/93427240/171654321-b3baffae-84d5-43af-8606-ab95d52e59a5.png)
+
 
 ### DECODE:
 
